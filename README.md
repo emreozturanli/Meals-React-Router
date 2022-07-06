@@ -15,6 +15,7 @@
   - <b>useState</b>
   - <b>useEffect</b>
   - <b>useCallback</b>
+  - <b>useContext</b>
   - <b>axios</b>
   - <b>React-Router-DOM <i>(Link, NavLink, isActive )</i>></b>
   - <b>useParams</b>
